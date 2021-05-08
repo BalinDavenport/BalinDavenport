@@ -1,4 +1,10 @@
 <!--![BalinDavenport]() -->
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
 
 <p align="center">
 <!-- Introduction here -->
@@ -10,13 +16,16 @@
 <br>
 
 <p align="center">
+  <i>Projects comming soon!</i>
+  
+<br>
+<br>
+<br>
+<br>
+  
+<p align="center">
   <a href="https://twitter.com/BalinDavenport"><img src="https://img.shields.io/twitter/follow/BalinDavenport?style=social"/></a>
 
-<br>
-<br>
 
-<p align="center">
- <i>Projects comming soon!</i>
-<p  align="center">
-</p>
+
 
