@@ -1,16 +1,23 @@
-### Hi there 👋
+![BalinDavenport]()
 
-<!--
-**BalinDavenport/BalinDavenport** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+I like data and science
+<br><br>
+  · <a href=https://docs.google.com/document/d/e/2PACX-1vTbInjuj9QxdKPHXVkTN8HzKXFIpyEpYD0-Hn9ZXxGHX1QGlpebn2QuWlDow4ZPwHiwDZPmwsWjSv8_/pub>Resume</a>
+ · 
+<br>
+<a href=""></a>
+| <a href=""></a>
+<br>
+ <p align="center">
+ <a href="https://twitter.com/BalinDavenport"><img src="https://img.shields.io/twitter/follow/BalinDavenport?style=social"/></a>
 
-Here are some ideas to get you started:
+<br>
+<br>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+<p align="center">
+ <i>Projects comming soon!</i>
+<p  align="center">
+</p>
+
