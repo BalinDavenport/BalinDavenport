@@ -1,7 +1,7 @@
 <!--![BalinDavenport]() -->
 <br>
 <p align="center">
-  <i>Projects comming soon!</i>
+  <i>More projects comming soon!</i>
 <br>
 <br>
 <br>
@@ -15,13 +15,7 @@
 <br>
   <a href=""></a>
   <a href=""></a>
-<br>
 
-
-  
-<br>
-<br>
-<br>
 <br>
   
 <p align="center">
