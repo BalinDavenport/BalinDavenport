@@ -7,7 +7,7 @@ I like data and science
  · 
 <br>
 <a href=""></a>
-| <a href=""></a>
+<a href=""></a>
 <br>
  <p align="center">
  <a href="https://twitter.com/BalinDavenport"><img src="https://img.shields.io/twitter/follow/BalinDavenport?style=social"/></a>
